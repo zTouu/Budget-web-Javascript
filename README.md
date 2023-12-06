@@ -40,4 +40,4 @@ The Budget App is a simple web application designed to help users manage their f
 This project is licensed under the MIT License.
 
 ## Contact
-For any inquiries or feedback, please contact [Your Name] at [ninvitou@gmail.com].
+For any inquiries or feedback, please contact at [ninvitou@gmail.com].
